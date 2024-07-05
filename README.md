@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Naver Cloud 기반 웹 데브옵스
 - 📫 How to reach me: pbscjhj@naver.com
 
-<h3>✨ Tech Stack ✨</h3>
+### ✨ Tech Stack ✨
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge" />&nbsp
 </div>
 
 <br>
@@ -35,14 +35,19 @@
 
 <br>
 
-<!-- My pet -->
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/cute-kkiri"
-    width="600"
-    height="120"
-  />
-</a>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) -->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</div>
+
+<br>
+
+<div>
+  <!-- My pet -->
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/cute-kkiri" width="100%" height="120" />
+  </a>    
+</div>
 
 <!-- Farm Type -->
 <!-- 
@@ -55,7 +60,6 @@
 </a> 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **cute-kkiri/cute-kkiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
