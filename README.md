@@ -51,21 +51,20 @@
 
 <div>
   <!-- My pet -->
-  <a href="https://github.com/devxb/gitanimals">
+  <!-- <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/lines/cute-kkiri" width="100%" height="120" />
-  </a>    
-</div>
+  </a> -->   
 
-<!-- Farm Type -->
-<!-- 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/cute-kkiri"
-    width="600"
-    height="300"
-  />
-</a> 
--->
+
+  <!-- Farm Type -->
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/cute-kkiri"
+      width="600"
+      height="300"
+    />
+  </a> 
+</div>
 
 <!--
 **cute-kkiri/cute-kkiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
