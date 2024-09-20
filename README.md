@@ -1,6 +1,7 @@
 # Hi there 👋
 
 - 🌱 I’m currently learning: Naver Cloud 기반 웹 데브옵스
+- 🔖 My Blog: https://cute-kkiri.github.io/
 - 📫 How to reach me: pbscjhj@naver.com
 
 ### ✨ Tech Stack ✨
