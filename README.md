@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning: 멋쟁이 사자처럼 백엔드 부트캠프
+- 🌱 I’m currently learning: 🦁멋쟁이 사자처럼 백엔드 부트캠프
 - 🔖 My Blog: https://cute-kkiri.github.io/
 - 📫 How to reach me: pbscjhj@naver.com
 
